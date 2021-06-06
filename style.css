@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+     background-color: blueviolet;   
+}
+span
+{
+    margin-top:20px;
+}
+div
+{
+    margin-top: 20px;
+}
+.Image-section
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.section-style
+{
+margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+        
+}
